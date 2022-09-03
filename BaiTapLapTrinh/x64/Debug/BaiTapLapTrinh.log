@@ -1,2 +1,2 @@
-﻿  Bai1.cpp
-  BaiTapLapTrinh.vcxproj -> C:\Users\Admin\source\repos\BaiTapLapTrinh\x64\Debug\BaiTapLapTrinh.exe
+﻿chuyển hệ thập phân sang hệ nhị phân.obj : error LNK2005: main already defined in Bai1.obj
+C:\Users\Admin\source\repos\BaiTapLapTrinh\x64\Debug\BaiTapLapTrinh.exe : fatal error LNK1169: one or more multiply defined symbols found
